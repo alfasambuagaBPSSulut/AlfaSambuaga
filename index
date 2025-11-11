@@ -205,7 +205,7 @@
             <label class="radio mr-3"><input type="radio" name="Tim Kerja" value="Rumah Tangga" /> Rumah Tangga</label>
             <label class="radio mr-3"><input type="radio" name="Tim Kerja" value="IT Suporting" /> IT Suporting</label>
             <label class="radio mr-3"><input type="radio" name="Tim Kerja" value="Humas dan Protokol" /> Humas dan Protokol</label>
-            <label class="radio"><input type="radio" name="Tim Kerja" value="PPID" /> PPID</label>
+            <label class="radio"><input type="radio" name="Tim Kerja" value="Layanan Umum" /> Layanan Umum</label>
           </div>
         </div>
 
